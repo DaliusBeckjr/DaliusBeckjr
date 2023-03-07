@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DaliusBeckjr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=material-palenight)](https://git.io/streak-stats)
