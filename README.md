@@ -1,6 +1,13 @@
 # Hello there, I'm Dalius
 currently, studying to be a backend dev 
 
+### hobbies
+- going on adventures
+- learning a to speak french
+
+### favorite quotes
+- "wealth is in the mind and not the pocket"
+
 
 
 
