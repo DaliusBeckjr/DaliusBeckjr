@@ -10,7 +10,11 @@ currently, studying to be a backend dev
 
 
 
-
+<!-- 
+    [idea] just need to add a dop menu for seperation Maybe <detail> 
+    2. find image icons for links to socials
+    3. make a name icon 
+ -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DaliusBeckjr&theme=cobalt)](https://git.io/streak-stats)
 
