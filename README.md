@@ -1,6 +1,6 @@
 
 
-   <h1> Hello there, I'm Dalius </h1>
+   <h1> Hello there, I'm Dalius ✌️</h1>
 
 <p> currently, studying to be a backend dev </p>
 
