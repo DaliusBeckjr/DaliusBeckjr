@@ -1,17 +1,24 @@
-# Hello there, I'm Dalius
-currently, studying to be a backend dev 
+<h1> Hello there, I'm Dalius </h1>
 
-### hobbies
-- going on adventures
-- learning a to speak french
+<p> currently, studying to be a backend dev </p>
+
+<h3> hobbies </h3>
+<ul>
+    <li> going on adventures </li>
+    <li> learning how to speak french </li>
+</ul>
 
 ### favorite quotes
 - "wealth is in the mind and not the pocket"
 
+<h3> goals </h3>
+<p> have a streak of 1 year of coding </p>
+
 
 
 <!-- 
-    [idea] just need to add a dop menu for seperation Maybe <detail> 
+    [idea] just need to add a dop menu for seperation Maybe <detail> <summary> 
+    look at w3 school for some inspiration...
     2. find image icons for links to socials
     3. make a name icon 
  -->
