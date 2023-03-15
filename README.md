@@ -21,7 +21,7 @@
     3. make a name icon 
  -->
 <details>
-    <summary> <h2> 👣Github activity trackers </h2> </summary>
+    <summary> <h2> Github activity trackers 🔥</h2> </summary>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DaliusBeckjr&theme=cobalt)](https://git.io/streak-stats) 
 
