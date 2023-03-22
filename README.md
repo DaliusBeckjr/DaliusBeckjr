@@ -2,7 +2,7 @@
 
    <h1> Hello there, I'm Dalius ✌️</h1>
 
-<p> just a </p>
+<p> just a student learning enought to amount towards a career in becoming a software engineer or even a cloud dev </p>
 
 
 <h3 align="left">Connect with me:</h3>
