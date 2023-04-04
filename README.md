@@ -41,5 +41,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaliusBeckjr&show_icons=true&theme=cobalt) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliusBeckjr&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliusBeckjr&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 </details>
