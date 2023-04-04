@@ -2,7 +2,7 @@
 
    <h1> Hello there, I'm Dalius ✌️</h1>
 
-<p> just a student learning enough to amount towards a career in becoming a software engineer or even a cloud dev </p>
+<p> just a naive student exploring every possibilities with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey. </p>
 
 
 <h3 align="left">Connect with me:</h3>
