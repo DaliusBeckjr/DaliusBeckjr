@@ -28,9 +28,15 @@
 <img align="left" alt="django" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="mysql" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <br />
+   
+ #
           
 <h3> goals </h3>
-<p> have a streak of 1 year of coding </p>
+   <ul>
+<li> learn react </li>
+<li> learn a rest api </li>
+<li>learn AWS </li>
+   </ul>
 
 
 
