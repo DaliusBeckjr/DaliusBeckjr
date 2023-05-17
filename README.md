@@ -31,7 +31,7 @@
    
  #
           
-<h3> goals </h3>
+<h3> goals 🗓️</h3>
    <ul>
 <li> learn react </li>
 <li> learn a rest api </li>
