@@ -33,6 +33,7 @@
           
 <h3> goals 🗓️</h3>
    <ul>
+<li>learn c#  </li>
 <li> learn react </li>
 <li> learn a rest api </li>
 <li>learn AWS </li>
