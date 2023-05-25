@@ -35,7 +35,7 @@
    <ul>
 <li>learn c#  </li>
 <li> learn react </li>
-<li> learn a rest api </li>
+<li> learn django rest framework </li>
 <li>learn AWS </li>
    </ul>
 
