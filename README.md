@@ -36,6 +36,7 @@
 <li> learn react </li>
 <li> learn django rest framework </li>
 <li>learn AWS </li>
+      <li>learn Scala </li>
    </ul>
 
 
