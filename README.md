@@ -31,14 +31,15 @@
  #
           
 <h3> goals 🗓️</h3>
+   <h5> Learn </h5>
    <ul>
-<li>learn c#  </li>
-<li> learn react </li>
-<li> learn django rest framework </li>
-      <li> learn FastAPI </li>
-      <li> learn rust</li>
-<li>learn AWS </li>
-      <li>learn Scala </li>
+<li> c#  </li>
+<li>  react </li>
+<li> django rest framework </li>
+      <li>  FastAPI </li>
+      <li>  rust</li>
+<li> AWS + cloud practitioner </li>
+      <li> Scala </li>
    </ul>
 
 
