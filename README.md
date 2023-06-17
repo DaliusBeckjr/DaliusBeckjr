@@ -10,7 +10,7 @@
 <a href="https://dev.to/daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="daliusbeckjr" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daliusbeckjr" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daliusbeckjr" height="30" width="40" /></a>
- <a href="https://medium.com/@daliusbeckxiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daliusbeckxiv" height="30" width="40" /></a> 
+ <a href="https://medium.com/@daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daliusbeckxiv" height="30" width="40" /></a> 
 </p>
 
 ---
