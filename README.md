@@ -38,7 +38,6 @@
 <li> c#  </li>
 <li>  react </li>
 <li> django rest framework </li>
-      <li>  FastAPI </li>
       <li>  rust</li>
 <li> AWS + cloud practitioner </li>
       <li> Scala </li>
