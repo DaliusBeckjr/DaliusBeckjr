@@ -28,9 +28,8 @@
 <img align="left" alt="mysql" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />   
 <img align="left" alt="mysql" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
           
-<br />
-   
- #
+<br>
+<br>
           
 <h3> goals 🗓️</h3>
    <h5> Learn </h5>
