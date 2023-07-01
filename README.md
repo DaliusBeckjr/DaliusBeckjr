@@ -26,8 +26,9 @@
 <img align="left" alt="flask" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" alt="django" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
 <img align="left" alt="mysql" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />   
-<img align="left" alt="mysql" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-          
+<img align="left" alt="fastapi" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+<!-- <img align="left" alt="vuejs" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> -->
+           
 <br>
 <br>
           
