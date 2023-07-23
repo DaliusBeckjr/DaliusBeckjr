@@ -4,6 +4,13 @@
 
 <p> just a naive student exploring every possibilities with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey. </p>
 
+<ul>
+   <li> currently working on my portfolio website </li>
+   <li> learning more about javascript </li>
+   <li> looking to collaborate on projects </li>
+   <li> ask me about python and blogs </li>
+   <li> Fun Fact: love learning new things </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
