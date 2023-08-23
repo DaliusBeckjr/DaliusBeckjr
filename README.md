@@ -38,8 +38,7 @@
 <img align="left" alt="vuejs" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
  <img align="left" alt="sass" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
                     
-<br>
-<br>
+<br />
           
 <h3> goals 🗓️</h3>
 I want to learn a frontend framework (react, angular, vue) and even get into using flutter in making apps for ios and android. I even want to learn aws more and get into some ideas and key base knowledge in cloud computing (looks very intersting to get my aws cloud certificate)
@@ -51,6 +50,7 @@ I want to learn a frontend framework (react, angular, vue) and even get into usi
     2. find image icons for links to socials
     3. make a name icon 
  -->
+<br />
  <h3> Github stats 🔥</h3> 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=DaliusBeckjr&theme=cobalt)](https://git.io/streak-stats)  -->
