@@ -1,21 +1,20 @@
 
 
-   <h1> Hello there, I'm Dalius ✌️</h1>
+   # Hello there, I'm Dalius ✌️
 
-<p> just a naive student exploring every possibilities with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey. </p>
+Just a naive student exploring every possibilities with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey.
 
-<ul>
-   <li> currently working on my portfolio website </li>
-   <li> learning more about javascript </li>
-   <li> looking to collaborate on projects </li>
-   <li> ask me about python and blogs </li>
-   <li> Fun Fact: love learning new things </li>
-</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="daliusbeckjr" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daliusbeckjr" height="30" width="40" /></a> -->
+   * currently working on my portfolio website 
+   * learning more about javascript 
+   * looking to collaborate on projects 
+   * ask me about python and blogs 
+   * Fun Fact: love learning new things 
+
+
+### Connect with me:
+
+<p>
 <a href="https://linkedin.com/in/daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daliusbeckjr" height="30" width="40" /></a>
  <a href="https://medium.com/@daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daliusbeckxiv" height="30" width="40" /></a> 
 
@@ -38,23 +37,27 @@
 <img align="left" alt="vuejs" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
  <img align="left" alt="sass" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
                     
-<br />
-          
-<h3> goals 🗓️</h3>
-I want to learn a frontend framework (react, angular, vue) and even get into using flutter in making apps for ios and android. I even want to learn aws more and get into some ideas and key base knowledge in cloud computing (looks very intersting to get my aws cloud certificate)
+
+
+
+<h3> Goals 🗓️ </h3>
+
+* I want to learn a frontend framework (react, angular, vue)
+
+*  I even want to learn aws more and get into some ideas and key base knowledge in cloud computing (looks very intersting to get my aws cloud certificate)
 
 
 <!-- 
     [idea] just need to add a dop menu for seperation Maybe <detail> <summary> 
     look at w3 school for some inspiration...
-    2. find image icons for links to socials
-    3. make a name icon 
+    1. find image icons for links to socials
+    2. make a name icon 
  -->
 <br />
  <h3> Github stats 🔥</h3> 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=DaliusBeckjr&theme=cobalt)](https://git.io/streak-stats)  -->
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaliusBeckjr&show_icons=true&theme=cobalt) -->
+![Dalius GitHub stats](https://github-readme-stats.vercel.app/api?username=DaliusBeckjr&show_icons=true&theme=cobalt)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliusBeckjr&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
