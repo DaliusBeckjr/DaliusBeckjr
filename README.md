@@ -40,7 +40,7 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
 
 
 
-<h3> Goals 🗓️ </h3>
+### Goals 🗓️
 
 * I want to learn a frontend framework (react, angular, vue)
 
