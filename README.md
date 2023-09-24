@@ -15,7 +15,7 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
 ### Connect with me:
 
 <p>
-<a href="https://linkedin.com/in/daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daliusbeckjr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dalius-beck-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daliusbeckjr" height="30" width="40" /></a>
  <a href="https://medium.com/@daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daliusbeckxiv" height="30" width="40" /></a> 
 
 </p>
