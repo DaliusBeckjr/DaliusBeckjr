@@ -38,6 +38,7 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
  <img align="left" alt="sass" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
                     
 
+<br />
 
 
 ### Goals 🗓️
