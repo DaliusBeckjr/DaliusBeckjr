@@ -44,6 +44,10 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
 #
 <br />
 
+### Other projects:
+
+* group proj: [broke buster](https://github.com/Tiarawayz/movie_app)
+
 ### Githuib Stats:
 
 ![Dalius GitHub stats](https://github-readme-stats.vercel.app/api?username=DaliusBeckjr&show_icons=true&theme=cobalt)
