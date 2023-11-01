@@ -21,6 +21,9 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
 </p>
 
 ### Languages and Tools:
+<!-- update will be seperating them into
+into more categories of 
+programming languages, toos, Frameworks, Databases and replacing logos with badges to have more space pretty much..but will see if the categories work better -->
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align = "left" alt = "django" width = "30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
