@@ -36,6 +36,9 @@ programming languages, toos, Frameworks, Databases and replacing logos with badg
 <!-- python framework -->
 <img align = "left" alt = "django" width = "30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align = "left" alt = "flask" width = "30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+
+<img align = "left" alt = "flask" width = "30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
           
 <!-- javascript framework -->
 <img align="left" alt="vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
