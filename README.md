@@ -1,4 +1,4 @@
-# I'm a Python Programmer and a Full Stack Developer
+# I'm a Python Programmer and a Software Engineer
 
 Just a naive student exploring every possibilities with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey.
 
