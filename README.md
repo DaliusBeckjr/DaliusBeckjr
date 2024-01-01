@@ -9,7 +9,8 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
   * react, redux, typescript then next.js
 * looking to collaborate on projects 
 * ask me about python and blogs 
-* Fun Fact: love learning new things 
+* Fun Fact: love learning new things
+* My stack: Django, React, Redux, MySQL
 
 
 
