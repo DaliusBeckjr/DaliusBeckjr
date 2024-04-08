@@ -21,7 +21,7 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,django,react,redux" />
+    <img src="https://skillicons.dev/icons?i=git,django,react,redux,tailwind,sass&perline=3" />
   </a>
 </p>
 
