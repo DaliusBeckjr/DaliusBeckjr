@@ -1,4 +1,4 @@
-# I'm a Python Programmer and a Software Engineer
+# I'm a Python Programmer and a Software Developer
 
 Just a naive student exploring every possibilities with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey.
 
@@ -10,7 +10,7 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
 * looking to collaborate on projects 
 * ask me about python and blogs 
 * Fun Fact: love learning new things
-* My stack: Django, React, Redux, MySQL
+
 
 
 
@@ -19,6 +19,8 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
 <a href="https://linkedin.com/in/dalius-beck-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daliusbeckjr" height="30" width="40" /></a>
  <a href="https://medium.com/@daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daliusbeckxiv" height="30" width="40" /></a> 
 
+
+<h3 align="center"> My Stack </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,django,mysql,react,redux,tailwind,sass" />
