@@ -23,7 +23,7 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
 <h3 align="center"> My Stack </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,mysql,react,redux,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=git,django,mysql,react,tailwind,sass" />
   </a>
 </p>
 
