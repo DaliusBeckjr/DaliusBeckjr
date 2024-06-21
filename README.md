@@ -20,12 +20,20 @@ Just a naive student exploring every possibilities with every oppurtunity to bec
  <a href="https://medium.com/@daliusbeckjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daliusbeckxiv" height="30" width="40" /></a> 
 
 
-<h3 align="center"> My Stack </h3>
+<h3 align="center"> My Stack: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,django,mysql,react,tailwind,sass" />
   </a>
 </p>
+
+<h3 align="center"> Other tech I use: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,mongodb" />
+  </a>
+</p>
+
 
 #
 <br />
