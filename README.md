@@ -1,6 +1,6 @@
-# I'm a Python Programmer and a Software Developer
+# I'm a Python Software Developer 
 
-Just a naive student exploring every possibilities with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey.
+Just a naive student exploring every possibility with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey.
 
 
 * Pronouns: He/Him
