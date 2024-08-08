@@ -6,7 +6,6 @@ Just a naive student exploring every possibility with every oppurtunity to becom
 * Pronouns: He/Him
 * I am currently working on My portfolio
 * learning more about javascript 
-  * react, redux, typescript then next.js
 * looking to collaborate on projects 
 * ask me about python and blogs 
 * Fun Fact: love learning new things
