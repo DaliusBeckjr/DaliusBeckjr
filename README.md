@@ -30,7 +30,7 @@ Just a naive student exploring every possibility with every oppurtunity to becom
 <h3 align="center"> Other tech I use: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,flask,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,flask,mongodb,docker,vite" />
   </a>
 </p>
 
