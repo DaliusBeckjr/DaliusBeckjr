@@ -1,4 +1,4 @@
-# I'm a Python Software Developer 
+# Hey there, I'm a Software Developer 
 
 Just a naive student exploring every possibility with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey.
 
