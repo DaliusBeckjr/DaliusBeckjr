@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a naive student exploring every possibility with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey.<br><br>    Pronouns: He/Him<br>    I am currently working on My portfolio<br>    learning more about javascript<br>    looking to collaborate on projects<br>    ask me about python and my blog<br>    Fun Fact: love learning new things
+Just a naive student exploring every possibility with every oppurtunity to become an awesome software dev while spreading peace, love and positivity on this journey.<br><br>    Pronouns: He/Him<br>    I am currently working on My portfolio<br>    I am learning Reactjs Typescript and fastapi<br>    looking to collaborate on projects<br>    ask me about python and my blog<br>    Fun Fact: love learning new things
 
 
 ## 🌐 Socials:
