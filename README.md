@@ -1,5 +1,5 @@
 # 💫 About Me:
-An enthusiastic student exploring the endless possibilities of web development, with a strong foundation in Django but an ever-growing love for JavaScript and React. On a journey to become a remarkable software developer, I embrace every opportunity to learn and grow.<br><br>    Pronouns: He/Him<br>    I am currently working on My portfolio<br>    I am learning Reactjs Typescript and fastapi<br>    I am looking to collaborate on projects and open source<br>    ask me about python and my blog<br>    Fun Fact: love learning new things
+An enthusiastic student exploring the endless possibilities of web development, with a strong foundation in Django but an ever-growing love for JavaScript and React. On a journey to become a remarkable software developer, I embrace every opportunity to learn and grow.I am currently on the look out for a role in backend web development, ideally writing in python or javascript. I'd especially would love to work at a startup on a tight knit team were I am able to make an impact. if you're hiring. connect with me<br><br>    Pronouns: He/Him<br>    I am currently working on My portfolio<br>    I am learning Reactjs Typescript and fastapi<br>    I am looking to collaborate on projects and open source<br>    ask me about python and my blog<br>    Fun Fact: love learning new things
 
 
 ## 🌐 Socials:
